@@ -6,3 +6,4 @@ public abstract class ConnectionConst {
     public static final String PASSWORD = "";
 
 }
+
